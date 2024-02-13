@@ -1,0 +1,5 @@
+Target belajar laravel
+1. install laravel
+2. membuat projek pertama
+3. mengelola projek 
+4. mengonlinkan projek
