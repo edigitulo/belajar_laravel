@@ -3,4 +3,7 @@ Target belajar laravel
 2. membuat projek pertama
 3. mengelola projek 
 4. mengonlinkan projek
-5. share dengan tim
+5. membuat tim
+6. membagi tugas tim
+7. mengembangkan proyek
+8. memasarkan proyek
